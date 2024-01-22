@@ -1,5 +1,3 @@
-Certainly! Here's an improved and formatted version for your README file:
-
 # Visual Odometry Scripts
 
 ## Overview
