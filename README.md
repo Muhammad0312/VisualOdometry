@@ -6,3 +6,6 @@ path to data sequence
 path to calib file
 path to ground truth
 path to store generated data
+
+# evo_traj kitti VOPoses/SIFT_02.txt --ref=GTPoses/02.txt -p --plot_mode=xz
+# evo_ape kitti GTPoses/02.txt VOPoses/SIFT_02.txt -va --plot --plot_mode xz --save_results results/SIFT02.zip
